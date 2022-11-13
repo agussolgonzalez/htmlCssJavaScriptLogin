@@ -1,8 +1,6 @@
 window.addEventListener("resize", anchoPagina);
 
 function anchoPagina(){
-    if(window.innerWidth > 850){
-     form-login.style.display =" block";
      container.style.display= "block";
     }else{
      form-login.style.display= "block";
